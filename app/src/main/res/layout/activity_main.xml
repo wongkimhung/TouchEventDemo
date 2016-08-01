@@ -18,4 +18,11 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="自定义ViewPager + 自定义ListView 内部拦截"/>
+
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="StickyLayout"/>
 </LinearLayout>

@@ -20,6 +20,8 @@
         <activity android:name=".activity.OutSideControllActivity"/>
 
         <activity android:name=".activity.InsideControllActivity"/>
+
+        <activity android:name=".activity.StickyLayoutActivity"/>
     </application>
 
 </manifest>
